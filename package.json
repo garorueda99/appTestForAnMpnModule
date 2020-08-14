@@ -1,0 +1,11 @@
+{
+  "name": "app-Module-Test",
+  "version": "1.0.0",
+  "description": "Application Test for an npm module created by myself",
+  "main": "index.js",
+  "author": "Andres Rueda <garo99@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
